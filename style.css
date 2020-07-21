@@ -41,7 +41,7 @@
   }
   
   a {
-    color: #63c0f5;
+    color: var(--primary-color);
   }
   
   .main {
